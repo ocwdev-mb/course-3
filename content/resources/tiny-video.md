@@ -14,12 +14,12 @@ resourcetype: Video
 title: tiny-video.mp4
 uid: 40453042-b7a0-4ad1-a1d9-76b79feca81b
 video_files:
-  video_captions_file: ''
-  video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_captions_file: /courses/3-course-3-summer-2027/tiny-video_captions.srt
+  video_thumbnail_file: https://img.youtube.com/vi/3kR9L8rHyig/default.jpg
+  video_transcript_file: /courses/3-course-3-summer-2027/tiny-video_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: 3kR9L8rHyig
 ---

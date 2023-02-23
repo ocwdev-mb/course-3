@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course-3/tiny-video_captions.srt
+file: /courses/3-course-3-summer-2027/tiny-video_captions.srt
 file_type: application/octet-stream
 image_metadata:
   caption: ''

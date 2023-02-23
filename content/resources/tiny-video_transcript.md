@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/course-3/tiny-video_transcript.pdf
+file: /courses/3-course-3-summer-2027/tiny-video_transcript.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
